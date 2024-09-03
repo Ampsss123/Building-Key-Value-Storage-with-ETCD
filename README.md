@@ -1,6 +1,7 @@
 # Building-Key-Value-Storage-with-ETCD
 
-#Project Goal: Develop a key-value store applicaƟon that allows users to set and get key-value pairs using etcd for storage.
+# Project Goal: Develop a key-value store application that allows users to set and get key-value pairs using etcd for storage.
+
 ○ Install and configure a single-node etcd cluster locally.
 ○ Write a program (Python/Go/Java) to connect to the etcd cluster.
 ○ Implement funcƟons to list all keys, get the value for a specific key, and put a key-value pair into etcd.
